@@ -71,14 +71,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0f172a" alt="" />
 </p>
 
-## Courses
-
-Data Structure and Algorithms, Database Management, Computer Networks, Operating Systems,
-Microprocessor and Computer Architecture, Big Data, Machine Learning, Web Development
-
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0f172a" alt="" />
-</p>
 
 ## Projects (2023-2027)
 
@@ -118,14 +110,6 @@ Microprocessor and Computer Architecture, Big Data, Machine Learning, Web Develo
 		<li>Built a server GUI to handle multiple clients and log activity in real time.</li>
 	</ul>
 </details>
-
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0f172a" alt="" />
-</p>
-
-## Education
-
-**PES University** — BTech Computer Science
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0f172a" alt="" />
