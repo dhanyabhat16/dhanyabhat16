@@ -70,9 +70,7 @@
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0f172a" alt="" />
 </p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanyabhat16&color=0ea5e9&style=flat-square" alt="Profile Views" />
-</div>
+
 
 ## Let us build something together
 
