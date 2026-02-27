@@ -72,49 +72,6 @@
 </p>
 
 
-## Projects (2023-2027)
-
-<details open>
-	<summary><strong>YAK (Yet Another Kafka)</strong> | Kafka, Redis</summary>
-	<ul>
-		<li>Built a fault-tolerant, distributed message broker inspired by Apache Kafka.</li>
-		<li>Designed a 3-node architecture with Producer and Consumer clients for synchronous replication.</li>
-		<li>Implemented atomic leader election with Redis and simulated leader failure with zero data loss.</li>
-		<li>Delivered a CLI demo for message production, broker failover, and leader takeover.</li>
-	</ul>
-</details>
-
-<details>
-	<summary><strong>Citizen Services</strong> | MySQL, React.js, Node.js, Express.js</summary>
-	<ul>
-		<li>Built a centralized grievance and application management system.</li>
-		<li>Implemented authentication, role-based access, and email notifications.</li>
-		<li>Improved transparency and response tracking for citizens.</li>
-	</ul>
-</details>
-
-<details>
-	<summary><strong>GreenGPU</strong> | Python, PyTorch, NVIDIA-SMI, Scikit-learn</summary>
-	<ul>
-		<li>Created an ML compute optimization framework that shifts workloads from GPU to CPU using runtime profiling.</li>
-		<li>Built a trial-run profiler to monitor GPU and CPU load for pre-inference decisions.</li>
-		<li>Added redundancy detection using embedding similarity and clustering to remove duplicate test cases.</li>
-		<li>Reported impact via GPU hours saved, energy savings (Wh), CO2 reduction (g), and cost savings.</li>
-	</ul>
-</details>
-
-<details>
-	<summary><strong>Port Scanner Client-Server GUI</strong> | Python, Socket</summary>
-	<ul>
-		<li>Developed a multi-threaded TCP client-server with a GUI that scans ports in a given range.</li>
-		<li>Built a server GUI to handle multiple clients and log activity in real time.</li>
-	</ul>
-</details>
-
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0f172a" alt="" />
-</p>
-
 ## Let us build something together
 
 If you are working on distributed systems, ML optimization, or full-stack apps, I would love to collaborate.
